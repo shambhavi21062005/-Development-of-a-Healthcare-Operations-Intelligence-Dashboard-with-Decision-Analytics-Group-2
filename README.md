@@ -957,3 +957,4 @@ The project focuses on understanding hospital operations through actual dashboar
 **Batch:** 2 / Team A  
 **Platform:** Microsoft Power BI  
 **Final Report File:** `Hospital_Management_Dashboard by harshada-2.pbix`
+**Live Dashboard link:**`https://app.powerbi.com/view?r=eyJrIjoiZjNkM2M4MmItMjc0ZC00OTEyLWJhZDgtOTdlMDI5ODgzMTUyIiwidCI6IjNjYmNmZWY2LWUxZGEtNDEyNy04Nzg0LTAyZmQ1ZmJkMWZlNCJ9&pageName=ee3c1ea0d0b6e6b65902`
